@@ -1,3 +1,5 @@
+// fizzBuzz game 
+
 var output = [];
 var count = 1;
 
